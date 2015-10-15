@@ -12,5 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require forem
 //= require turbolinks
 //= require_tree .

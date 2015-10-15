@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
 
-
+gem 'forem', github: "radar/forem", branch: "rails4"
+gem 'forem-bootstrap', github: "radar/forem-bootstrap"
+gem 'forem-redcarpet', github: "radar/forem-redcarpet"
+gem 'devise'
+gem 'will_paginate'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.4'
 # Use sqlite3 as the database for Active Record
